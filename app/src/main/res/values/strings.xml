@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TwoTouchMail</string>
+
+    <string name="b_pickup">迎えに来て</string>
+    <string name="b_nodinner">飯いらない</string>
+    <string name="b_send">送信</string>
+    <string name="sub">件名</string>
+    <string name="place">現在地</string>
+    <string name="station">駅</string>
+    <string name="school">学校</string>
+    <string name="juku">塾</string>
+    <string name="always">いつもの場所</string>
+    <string name="mail_to">kaKuuasdf@gmail.com</string>
+    <string name="topickup">に迎えに来て</string>
+    <string name="action_setting">Setting</string>
+
+    <string name="title_activity_pick_up">PickUpActivity</string>
+    <string name="title_activity_no_dinner">NoDinnerActivity</string>
+</resources>
